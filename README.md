@@ -38,6 +38,7 @@ Designed to save development time and keep your project clean, consistent, and S
 - 🌐 Retrieve **current domain name** or base URL
 - 💻 Detect **client IP address**, including proxy-safe mode
 - 🗂️ Detect **file type** (image, document, audio, video, text)
+- 🗂️ Convert number to text money php/js/kotlin/swift/flutter
 
 ---
 
