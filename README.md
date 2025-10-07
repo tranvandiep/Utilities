@@ -6,7 +6,9 @@ Commonly used functions during project development – All Languages
 
 # PHP Utility Functions
 
-A lightweight and reusable **PHP helper library** that includes the most common functions used in web development — from **string normalization** to **file uploads**, **domain**, and **IP detection**.  
+# PHP Utility Functions
+
+A lightweight and reusable **PHP helper library** that includes the most common functions used in web development — from **string normalization** to **file uploads**, **domain**, **IP detection**, and **file type validation**.  
 Designed to save development time and keep your project clean, consistent, and SEO-friendly.
 
 ---
@@ -21,6 +23,7 @@ Designed to save development time and keep your project clean, consistent, and S
    - [3. Upload file](#3-upload-file)
    - [4. Get domain name](#4-get-domain-name)
    - [5. Get client IP address](#5-get-client-ip-address)
+   - [6. Detect file type](#6-detect-file-type)
 4. [Example](#example)
 5. [License](#license)
 6. [Author](#author)
@@ -34,6 +37,7 @@ Designed to save development time and keep your project clean, consistent, and S
 - 📁 Upload files safely with size and type validation
 - 🌐 Retrieve **current domain name** or base URL
 - 💻 Detect **client IP address**, including proxy-safe mode
+- 🗂️ Detect **file type** (image, document, audio, video, text)
 
 ---
 
