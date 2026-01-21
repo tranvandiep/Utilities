@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "fullName": "Nguyen Van A",
+    "email": "a.nguyen@example.com",
+    "password": "123456",
+    "address": "Ha Noi",
+    "birthday": "1995-08-20"
+  },
+  {
+    "id": "2",
+    "fullName": "Tran Thi B",
+    "email": "b.tran@example.com",
+    "password": "password123",
+    "address": "Ho Chi Minh City",
+    "birthday": "1998-03-15"
+  },
+  {
+    "id": "3",
+    "fullName": "Le Van C",
+    "email": "c.le@example.com",
+    "password": "abc12345",
+    "address": "Da Nang",
+    "birthday": "1992-12-01"
+  },
+  {
+    "id": null,
+    "fullName": "Pham Thi D",
+    "email": "d.pham@example.com",
+    "password": "test@123",
+    "address": "Can Tho",
+    "birthday": "2000-07-09"
+  }
+]
